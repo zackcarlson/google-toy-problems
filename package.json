@@ -1,0 +1,23 @@
+{
+  "name": "google-toy-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackcarlson/google-toy-problems.git"
+  },
+  "author": "Zack Carlson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackcarlson/google-toy-problems/issues"
+  },
+  "homepage": "https://github.com/zackcarlson/google-toy-problems#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.4",
+    "jest": "^24.8.0"
+  }
+}
