@@ -1,4 +1,4 @@
-import { wordBreak } from './word_break.js.js';
+import { wordBreak } from './word_break.js';
 
 describe('wordBreak', () => {
   it('should return true if given word can be chunked into dict words', () => {
